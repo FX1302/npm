@@ -1,3 +1,4 @@
 # npm
 list of npm command 
-npm run dev 
+#run node        
+	npm run dev 
